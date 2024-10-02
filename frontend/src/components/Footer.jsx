@@ -31,8 +31,8 @@ const Footer = () => {
         </div>
         {/*----------Copy right text--------*/}
         <div>
-            <hr/>
-            <p className='py-5 text-sm text-center'>
+            <hr className='h-0.5 bg-gray-300 border-none'/>
+            <p className='py-5 text-center font-semibold text-base'>
             Copyright © 2024 CLINO - All Right Reserved.
             </p>
         </div>
