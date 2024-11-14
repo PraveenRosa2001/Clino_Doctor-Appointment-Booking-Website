@@ -43,7 +43,7 @@ const RelatedDoctors = ({ speciality, docId }) => {
       </div>
       <button 
         onClick={() => { navigate(`/doctors`); scrollTo(0, 0); }} // Fixed the onClick syntax
-        className='bg-blue-50 text-gray-600 px-12 py-3 rounded-full mt-10'
+        className='bg-blue-50 text-gray-600 px-12 py-3 rounded-full mt-10 hover:bg-black hover:text-white transition-all duration-500'
       >
         More
       </button>
