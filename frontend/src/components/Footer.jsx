@@ -8,7 +8,7 @@ const Footer = () => {
           {/*---------Left-Side--------*/}
           <div>
                 <img className='mb-5 w-44 cursor-pointer' src={assets.Clino} alt=''/>
-                <p className='w-full md:w-2/3 text-gray-600 leading-6 font-semibold text-base text-justify'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p className='w-full md:w-2/3 text-gray-600 leading-6 font-semibold text-base text-justify'>Easily book appointments with doctors through our online platform. Filter doctors by specialty, select a preferred date and time within a 7-day window, and confirm your appointment seamlessly.</p>
           </div>
           {/*---------center-side---------*/}
           <div className='mt-1'>
